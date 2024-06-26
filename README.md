@@ -1,2 +1,2 @@
 
-## pip install pywhatkit -> # python thankyou.py
+## pip install pywhatkit ->  python thankyou.py
